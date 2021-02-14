@@ -1,0 +1,41 @@
+﻿  Main.cpp
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(185,22): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(177): message :  while compiling class template member function 'T ABS<T>::pop(void)'
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(177): message :         with
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(177): message :         [
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(177): message :             T=int
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(177): message :         ]
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(37): message :  see reference to function template instantiation 'T ABS<T>::pop(void)' being compiled
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(37): message :         with
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(37): message :         [
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(37): message :             T=int
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(37): message :         ]
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(24): message :  see reference to class template instantiation 'ABS<int>' being compiled
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(116,23): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(100): message :  while compiling class template member function 'void ABQ<int>::enqueue(T)'
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(100): message :         with
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(100): message :         [
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(100): message :             T=int
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(100): message :         ]
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(70): message :  see reference to function template instantiation 'void ABQ<int>::enqueue(T)' being compiled
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(70): message :         with
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(70): message :         [
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(70): message :             T=int
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(70): message :         ]
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(65): message :  see reference to class template instantiation 'ABQ<int>' being compiled
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(137,23): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(129): message :  while compiling class template member function 'T ABQ<T>::dequeue(void)'
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(129): message :         with
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(129): message :         [
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(129): message :             T=int
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(129): message :         ]
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(78): message :  see reference to function template instantiation 'T ABQ<T>::dequeue(void)' being compiled
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(78): message :         with
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(78): message :         [
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(78): message :             T=int
+E:\C++ code\COP3503\lab3\lab3\lab3\Main.cpp(78): message :         ]
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(197): warning C4715:  'ABS<int>::pop': not all control paths return a value
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(148): warning C4715:  'ABQ<int>::dequeue': not all control paths return a value
+E:\C++ code\COP3503\lab3\lab3\lab3\ABS.h(197): warning C4715:  'ABS<float>::pop': not all control paths return a value
+E:\C++ code\COP3503\lab3\lab3\lab3\ABQ.h(148): warning C4715:  'ABQ<float>::dequeue': not all control paths return a value
+  lab3.vcxproj -> E:\C++ code\COP3503\lab3\lab3\Debug\lab3.exe
